@@ -1,45 +1,25 @@
 +++
 title = "About Dan"
 date = 2017-12-16T18:42:10-08:00
-description = "Who the hell is this Dan guy anyways?"
-tags = [ "Personal", "Blog" ]
-categories = [ "Self" ]
+description = "Why you'd want to go on a date with me"
+tags = [ "Personal" ]
 menu = "main"
+comments = "false"
 +++
-A First Level Header
-====================
+{{< figure src="/who_am_i.jpg" >}}
 
-A Second Level Header
----------------------
+> So who the hell is this person, anyways?
 
-Now is the time for all good men to come to
-the aid of their country. This is just a
-regular paragraph.
+So Dan's just this guy, ya know?
 
-The quick brown fox jumped over the lazy
-dog's back.
+Daniel Spisak was born from the fiery depths of fusion and now roams the pale
+blue dot known as Earth. I obtained my bachelors degree in Computer Science from
+UC Irvine at the end of 2007. I have been involved with and in technology &
+security consulting firms,freelance tech writing,broadband ISPs and more. I used
+to contribute to [Jerry Pournelle's website](https://www.jerrypournelle.com/chaosmanor/) and [Chaos Manor Reviews](http://chaosmanorreviews.com/). Additionally
+I am also a freelance photographer as well and you can find my photos either on
+my own personal gallery or up at my [Flickr](https://www.flickr.com/photos/docwho76/) account.
 
-### Header 3
-
-> This is a blockquote.
->
-> This is the second paragraph in the blockquote.
->
-> ## This is an H2 in a blockquote
-
-Some of these words *are emphasized*.
-Some of these words _are emphasized also_.
-
-Use two asterisks for **strong emphasis**.
-Or, if you prefer, __use two underscores instead__.
-
-This is an [example link](http://example.com/).
-
-I get 10 times more traffic from [Google][1] than from
-[Yahoo][2] or [MSN][3].
-
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
-
-{{< figure src="/happy_khan.jpg" title="Happy Khannnnukka" >}}
+This blog is the main location where I do my long form writing. I can also be
+found on a variety of social networking and related sites. Just take a look at
+the footer on any page to see other places I post content.
