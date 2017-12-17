@@ -6,15 +6,14 @@ MetaDataFormat = "toml"
 disqusShortname = "fuckyoudynamicweb" # Optional, add Disqus shortname for comments
 enableRobotsTXT = true # Suggested, enable robots.txt file
 googleAnalytics = "UA-110594244-1" # Optional, add tracking Id for analytics
-
 [permalinks]
 # Optional. Change the permalink format for the 'post' content type.
 # The format shown here is the same one Jekyll/Octopress uses by default.
 post = "/blog/:year/:month/:day/:title/"
 [taxonomies]
 # Optional. Use if you want tags and lists.
-   category = "categories"
-   tag = "tags"
+category = "categories"
+tag = "tags"
 [params]
 subtitle = "Smoke me a kipper, I'll be back for breakfast"
 logo = "img/danvatar-icon.png"
@@ -23,29 +22,24 @@ dateFormat = "January 2, 2006"
 commit = false
 rss = true
 comments = true
-
 [Author]
-  name = "Daniel Spisak"
-  website = "fuckyoudynamicweb.com"
-  email = "timelord@gmail.com"
-  facebook = "RickRollNeverGonnaGiveYouUpNeverGonnaLetYouDown666"
-  github = "docwho76"
-  twitter = "docwho76"
-  reddit = "docwho76"
-  linkedin = "dspisak"
-  snapchat = "docwho76"
-  instagram = "docwho76"
-  soundcloud = "docwho76"
-  spotify = "docwho76"
-
-  gravatarHash = "99420eb3d52581434d66b08cf67f2e85"
-
-  [[menu.main]]
-      name = "Blog"
-      url = ""
-      weight = 1
-
-  [[menu.main]]
-      name = "Tags"
-      url = "tags"
-      weight = 3
+name = "Daniel Spisak"
+website = "fuckyoudynamicweb.com"
+email = "timelord@gmail.com"
+facebook = "RickRollNeverGonnaGiveYouUpNeverGonnaLetYouDown666"
+github = "docwho76"
+twitter = "docwho76"
+reddit = "docwho76"
+linkedin = "dspisak"
+snapchat = "docwho76"
+instagram = "docwho76"
+soundcloud = "docwho76"
+spotify = "docwho76"
+[[menu.main]]
+name = "Blog"
+url = ""
+weight = 1
+[[menu.main]]
+name = "Tags"
+url = "tags"
+weight = 3
