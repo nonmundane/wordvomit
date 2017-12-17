@@ -4,7 +4,7 @@ date = 2017-12-16T18:42:10-08:00
 description = "Why you'd want to go on a date with me"
 tags = [ "Personal" ]
 menu = "main"
-comments = "false"
+comments = false
 +++
 {{< figure src="/who_am_i.jpg" >}}
 
