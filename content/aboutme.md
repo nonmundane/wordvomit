@@ -10,7 +10,7 @@ comments = false
 
 > So who the hell is this person, anyways?
 
-So Dan's just this guy, ya know?
+So Dan's just [this guy](http://www.imdb.com/name/nm2020297/), ya know?
 
 Daniel Spisak was born from the fiery depths of fusion and now roams the pale
 blue dot known as Earth. I obtained my bachelors degree in Computer Science from
