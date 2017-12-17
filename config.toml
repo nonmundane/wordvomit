@@ -1,40 +1,44 @@
 baseurl = "https://www.fuckyoudynamicweb.com/" # Controls base URL
-languageCode = "en-US" # Controls site language
 title = "Doc on the Rocks" # Homepage title and page title suffix
+languageCode = "en-US" # Controls site language
 paginate = 5 # Number of posts to show before paginating
-
-theme = "after-dark" # Set default theme
-
+theme = "hyde-x" # Set default theme
+disqusShortname = "fuckyoudynamicweb" # Optional, add Disqus shortname for comments
 enableRobotsTXT = true # Suggested, enable robots.txt file
-googleAnalytics = "UA-110594244-1" # Optional, add tracking Id for analytics
-disqusShortname = "docwho76" # Optional, add Disqus shortname for comments
-SectionPagesMenu = "main" # Enable menu system for lazy bloggers
-footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
+MetaDataFormat = "toml"
+
+[author]
+    name = "Daniel Spisak"
+
+[taxonomies]
+# Optional. Use if you want tags and lists.
+   category = "categories"
+   tag = "tags"
 
 [params]
-  description = "" # Suggested, controls default description meta
-  author = "Daniel Spisak" # Optional, controls author name display on posts
-  hide_author = false # Optional, set true to hide author name on posts
-  show_menu = true # Optional, set true to enable section menu
-  powered_by = true # Optional, set false to disable credits
-  images = [
-    "https://source.unsplash.com/category/technology/2000x1322"
-  ] # Suggested, controls default Open Graph images
-  theme_variant = "" # Optional, for use to overriding default theme
-  googlefonts = "//fonts.googleapis.com/css?family=Share+Tech+Mono"
+  truncate = true
+  theme = "theme-base-09"
+  highlight = "dark"
+  tagline = "Smoke me a kipper, I'll be back for breakfast"
+  home = "Blagh"
 
-[[menu.main]]
-  name = "Root"
-  weight = 1
-  identifier = "root"
-  url = "/"
-[[menu.main]]
-  name = "Posts"
-  weight = 2
-  identifier = "post"
-  url = "/post/"
-[[menu.main]]
-  name = "About Dan"
-  weight = 3
-  identifier = "about"
-  url = "/about/"
+  # Used when a given page doesn't set its own.
+  defaultDescription = "Blog entry"
+  defaultKeywords = "blog,fnord"
+
+  googleAnalytics = "UA-110594244-1" # Optional, add tracking Id for analytics
+  gravatarHash = "99420eb3d52581434d66b08cf67f2e85"
+
+  # Sidebar social links, these must be full URLs.
+  github = "https://github.com/docwho76"
+  bitbucket = ""
+  stackOverflow = ""
+  linkedin = "https://www.linkedin.com/in/dspisak"
+  googleplus = ""
+  facebook = "https://www.facebook.com/RickRollNeverGonnaGiveYouUpNeverGonnaLetYouDown666"
+  twitter = "https://twitter.com/docwho76"
+  youtube = ""
+  email = "timelord@gmail.com"
+
+  # Other social-like sidebar links
+  rss = true  # switch to true to enable RSS icon link
