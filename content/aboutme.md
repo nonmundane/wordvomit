@@ -4,7 +4,7 @@ date = 2017-12-16T18:42:10-08:00
 description = "Who the hell is this Dan guy anyways?"
 tags = [ "Personal", "Blog" ]
 categories = [ "Self" ]
-draft = true
+draft = false
 menu = "main"
 +++
 A First Level Header
