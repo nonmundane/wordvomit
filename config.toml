@@ -38,7 +38,7 @@ MetaDataFormat = "toml"
   facebook = "https://www.facebook.com/RickRollNeverGonnaGiveYouUpNeverGonnaLetYouDown666"
   twitter = "https://twitter.com/docwho76"
   youtube = ""
-  email = "timelord@gmail.com"
+  email = ""
 
   # Other social-like sidebar links
   rss = true  # switch to true to enable RSS icon link
