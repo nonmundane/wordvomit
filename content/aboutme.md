@@ -43,4 +43,4 @@ I get 10 times more traffic from [Google][1] than from
 [2]: http://search.yahoo.com/  "Yahoo Search"
 [3]: http://search.msn.com/    "MSN Search"
 
-{{< figure src="/static/happy_khan.jpg" title="Happy Khannnnukka" >}}
+{{< figure src="/happy_khan.jpg" title="Happy Khannnnukka" >}}
