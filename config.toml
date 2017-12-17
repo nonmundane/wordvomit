@@ -1,4 +1,4 @@
-baseURL = "https://fuckyoudynamicweb.com/" # Controls base URL
+baseURL = "https://www.fuckyoudynamicweb.com/" # Controls base URL
 title = "Doc on the Rocks" # Homepage title and page title suffix
 languageCode = "en-US" # Controls site language
 paginate = 5 # Number of posts to show before paginating
