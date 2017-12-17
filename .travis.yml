@@ -6,7 +6,7 @@ script:
   - tree
   - python --version
   - sudo pip install awscli
-  - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://fuckyoudynamicweb.com --exclude 'post'
+  - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://fuckyoudynamicweb.com 
 notifications:
     email:
         on_failure: always
